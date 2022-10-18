@@ -1,5 +1,7 @@
 # Trigger Workflow and Wait
 
+Sourced from: https://github.com/convictional/trigger-workflow-and-wait
+
 Github Action for trigger a workflow from another workflow. The action then waits for a response.
 
 **When would you use it?**
